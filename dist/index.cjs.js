@@ -2226,7 +2226,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/PolySwanFinance",
+        href: "https://twitter.com/polyowlfinance",
     },
 ];
 var MENU_HEIGHT = 64;
