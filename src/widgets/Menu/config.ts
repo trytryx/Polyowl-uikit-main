@@ -105,10 +105,6 @@ export const links = [
         label: "Docs",
         href: "https://goosedefi.gitbook.io/goose-finance/",
       },
-      {
-        label: "Blog",
-        href: "https://goosefinance.medium.com/",
-      },
     ],
   },
 ];
@@ -117,7 +113,7 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/polyswanfinance"
+    href: "https://t.me/polyowl"
   },
   {
     label: "Twitter",
