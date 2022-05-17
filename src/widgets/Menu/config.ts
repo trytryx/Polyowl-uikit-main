@@ -113,12 +113,12 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/polyowl"
+    href: "https://t.me/hypertokenapp"
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/polyowlfinance",
+    href: "https://twitter.com/hyperchainapps",
   },
 ];
 
