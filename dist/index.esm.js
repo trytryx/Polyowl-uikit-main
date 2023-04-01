@@ -2208,12 +2208,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/hypertokenapp"
+        href: "https://t.me/phnxnetwork"
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/hyperchainapps",
+        href: "https://twitter.com/phnxnetwork",
     },
 ];
 var MENU_HEIGHT = 64;
